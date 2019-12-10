@@ -1,0 +1,5 @@
+{
+
+    "connectionString": "mongodb+srv://admin:admin@cluster0-2hrli.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "admin"
+}
